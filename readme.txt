@@ -1,4 +1,4 @@
-﻿=== Simple Adblock Notice ===
+﻿=== Simple Adblock Notice [Temporarily withdrawn] ===
 Contributors: shrinitech 
 Donate link: http://techsini.com/our-wordpress-plugins/simple-adblock-notice
 Tags: adblock detect, advertisement, adblock plus detect, adblock plus notice, adblock plus checker
@@ -10,6 +10,8 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 
 == Description ==
+
+<strong>This plugin has been temporarily withdrawn as the adblock detection trick behind this plugin is no longer working.</strong>
 
 Simple Adblock Notice plugin shows a popup to whitelist your website in Adblock plus browser extension.
 
