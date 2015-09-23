@@ -4,7 +4,7 @@
 Plugin Name: Simple Adblock Notice
 Plugin URI: http://techsini.com/our-wordpress-plugins/simple-adblock-notice
 Description: Simple Adblock Notice plugin shows a popup to whitelist your website if Adblock plus browser extension is installed.
-Version: 2.0.0
+Version: 2.1.0
 Author: Shrinivas Naik
 Author URI: http://techsini.com
 License: GPL V3
@@ -112,7 +112,6 @@ if(!class_exists('simple_adblock_notice') && !class_exists('simple_adblock_notic
                                     <p>We request you to whitelist our website in your adblocking plugin.</p> \
                                     <p>Please whitelist our website and refresh this page to view the content.</p> \
                                     <br> \
-                                    <a href="http://techsini.com/how-to-whitelist-a-website-on-adblock-plus/" target="_blank">How to whitelist a website in Adblock Plus?</a> \
                                 </div> \
                             </div>');
 

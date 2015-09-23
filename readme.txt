@@ -4,7 +4,7 @@ Donate link: http://techsini.com/our-wordpress-plugins/simple-adblock-notice
 Tags: adblock detect, advertisement, adblock plus detect, adblock plus notice, adblock plus checker, google adsense, anti adblock
 Requires at least: 3.0
 Tested up to: 4.3.0
-Stable tag: 2.0
+Stable tag: 2.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -37,3 +37,6 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 = 2.0 =
 * Added new Adblock detection technique as the earlier method is no longer working
 * Added Strict Mode
+
+= 2.1 =
+* Fixed some minor bugs
