@@ -3,11 +3,10 @@ Contributors: shrinitech
 Donate link: http://techsini.com/our-wordpress-plugins/simple-adblock-notice
 Tags: adblock detect, advertisement, adblock plus detect, adblock plus notice, adblock plus checker, google adsense, anti adblock
 Requires at least: 3.0
-Tested up to: 4.3.0
+Tested up to: 4.3.1
 Stable tag: 2.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
-
 
 == Description ==
 
@@ -18,6 +17,20 @@ Adblock plus is a widely used browser extension which blocks advertisements whic
 Check out the <a href="http://techsini.com/our-wordpress-plugins/simple-adblock-notice">Simple Adblock Notice plugin</a> homepage to know more about this plugin.
 
 <strong>This plugin only works for Google Adsense</strong>. Check out the <a href="http://techsini.com/releasing-simple-adblock-notice-2">release notes and FAQ</a> for more information.
+
+<strong>Checkout Our other WordPress Plugins</strong>
+<ul>
+<li><a href="http://techsini.com/our-wordpress-plugins/fluid-notification-bar/">Fluid Notification Bar</a></li>
+<li><a href="http://techsini.com/our-wordpress-plugins/elegant-subscription-popup/">Elegant Subscription Popup</a></li>
+<li><a href="http://techsini.com/our-wordpress-plugins/simple-under-construction/">Simple Under Construction</a></li>
+<li><a href="http://masterblogster.com/plugins/disable-right-click/">Disable Right Click</a></li>
+</ul>
+
+<strong>Useful Resources for Web Developers [Our Other Projects]</strong>
+<ul>
+<li><a href="http://techsini.com/how-to-create-php-ajax-contact-form-with-google-recaptcha/">PHP AJAX Contact Form with Google reCaptcha</a></li>
+<li><a href="http://techsini.com/multi-mockup/">Multi Device Website Mockup Generator</a></li>
+</ul>
 
 <strong>Credits</strong>
 * <a href="http://t4t5.github.io/sweetalert/">SweetAlert</a>
